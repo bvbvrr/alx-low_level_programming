@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * main - entry point print_sign - Print the sign of a number
  * @n: type int integer, can be negative or positive
